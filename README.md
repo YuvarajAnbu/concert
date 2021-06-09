@@ -6,7 +6,6 @@ A page to advertise concert.
 📃 Languages used
 - HTML
 - SCSS
-- REACT JS
 - Libraries
   - [Gsap](https://greensock.com)
   
