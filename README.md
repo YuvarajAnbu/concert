@@ -13,5 +13,5 @@ A page to advertise concert.
 
 ## How to run it
 
-clone the repo and open the html file on browser thats it.
+Clone the repo and open the html file on browser thats it.
 
